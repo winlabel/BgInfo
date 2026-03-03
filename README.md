@@ -1,7 +1,7 @@
 # BgInfo v4.33
 
 Download latest version from Releases:        
-https://github.com/dismtool/BgInfo/releases/tag/4.33
+https://github.com/bgcfg/BgInfo/releases/tag/4.33
 
 ## Introduction
 
@@ -9,4 +9,4 @@ BgInfo is a lightweight Windows utility from the Sysinternals suite that writes 
 
 BgInfo works by generating an image and setting it as the current wallpaper, so it doesn’t change the system beyond the background picture. You can choose which fields appear, arrange them in a clean list, and control formatting such as position, alignment, and font size. It can display values from multiple network adapters, and it supports custom text and simple variables—handy for adding asset tags, environment labels (prod/test), rack locations, or help-desk contact information.
 
-Settings can be saved to a configuration file and reused, making it easy to standardize the same desktop overlay across many PCs. The tool can be run on demand, at user logon, or automatically via scripts and Windows Task Scheduler to refresh on a schedule. BgInfo gives IT administrators and support teams quick, standardized access to essential system identity and configuration details, helping reduce errors and accelerate troubleshooting.
+Settings can be saved to a configuration file and reused, making it easy to standardize the same desktop overlay across many PCs. The tool can be run on demand, at user logon, or automatically via scripts and Windows Task Scheduler to refresh on a schedule. With BgInfo, IT teams gain clear and consistent visibility into system information, minimizing mistakes and enabling faster, more efficient issue resolution.
